@@ -4,7 +4,7 @@ local M = {}
 
 
 function M.print(opts)
-    print("yello")
+    print("yello2")
 end
 
 function M.setup(opts)
